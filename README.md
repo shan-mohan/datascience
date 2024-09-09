@@ -1,7 +1,8 @@
 # datascience
 machine learning
 
-To share learnings with others to avoid redaudant work. The Repo contains
+The Repo contains
 
 Prediction using Linear, Decision Tree, Random Forest, etc..) ,
-Classification using logistic, 
+Classification using logistic, CART
+Use cases that shows PCA, LDA applications
